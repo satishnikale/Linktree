@@ -1,5 +1,6 @@
 export const HeroSection = () => {
-    return <div>
-        Hello
+    return <div className="flex">
+        <div>Sayisdj</div>
+        <div>Nikale</div>
     </div>
 }
